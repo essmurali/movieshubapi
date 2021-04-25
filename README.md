@@ -1,3 +1,4 @@
-This project was developed in Lumen Framework
+# Movies Hub API
 
-The webervice was created to  handle movies list, movie search from the JSON data
+The webservice was developed in Lumen framework. The scope of the project was to parse movies list from JSON and return the response in JSON format based on the endpoint call.
+
