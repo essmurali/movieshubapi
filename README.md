@@ -10,3 +10,9 @@ The possible endpoints are
 > http://localhost:8000/api/list
 
 > http://localhost:8000/api/search [POST Param 'movieName']
+
+## Unit Testing
+
+The API tests can be executed with the below code
+
+> vendor/bin/phpunit --filter=MoviesApiTest
