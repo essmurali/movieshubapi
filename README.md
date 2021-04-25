@@ -8,4 +8,5 @@ The sample json file was stored in the path "storage/app/moviedata.json"
 
 The possible endpoints are
 > http://localhost:8000/api/list
+
 > http://localhost:8000/api/search [POST Param 'movieName']
